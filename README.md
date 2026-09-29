@@ -5,7 +5,7 @@ An IoT-based Multi-Bay Electric Vehicle (EV) Charging Station monitoring and loa
 
 ## 🎬 Project Demo
 
-[🎬 Click here to watch the Demo Video](https://github.com/user-attachments/assets/5c5547e9-819f-4776-8694-38ed327cd714))
+![🎬 Click here to watch the Demo Video](https://github.com/user-attachments/assets/5c5547e9-819f-4776-8694-38ed327cd714))
 
 ---
 
